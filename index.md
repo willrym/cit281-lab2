@@ -10,3 +10,5 @@
 9. Cloning cloud repos locally
 10. Branch
 11. Repo files
+
+![Sal](https://static.wikia.nocookie.net/impracticaljokers/images/d/d2/Sal.png/revision/latest/scale-to-width-down/361?cb=20190604013345)
